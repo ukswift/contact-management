@@ -1,8 +1,8 @@
 {
   "contacts": [
     {
-      "name": "json-servers",
-      "number": 11111,
+      "name": "Fav contact",
+      "number": "8978978978",
       "id": 1
     },
     {
@@ -11,18 +11,13 @@
       "id": 2
     },
     {
-      "name": "Ram",
-      "number": 12345678,
-      "id": 3
-    },
-    {
       "name": "Shyam",
       "number": 379847398,
       "id": 4
     },
     {
-      "name": "fgk;lsgkl",
-      "number": "54678",
+      "name": "Utkarsha",
+      "number": "7899877832",
       "id": 5
     }
   ]
