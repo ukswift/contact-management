@@ -7,9 +7,15 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "backend": "nodemon serverSrc/app.js",
+    "db": "json-server --watch db.json --port 3004"
   },
   "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "json-server": "^0.17.3",
+    "nodemon": "^2.0.22",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
